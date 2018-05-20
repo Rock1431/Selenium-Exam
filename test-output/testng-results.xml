@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="200465" started-at="2017-08-22T16:40:45Z" finished-at="2017-08-22T16:44:06Z">
+    <groups>
+    </groups>
+    <test name="Smoke" duration-ms="200465" started-at="2017-08-22T16:40:45Z" finished-at="2017-08-22T16:44:06Z">
+      <class name="com.practice.selenium.Costco">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.practice.selenium.Costco@4cc0edeb]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2017-08-22T22:11:36Z" finished-at="2017-08-22T22:11:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.practice.selenium.Costco@4cc0edeb]" name="beforeClass" is-config="true" duration-ms="0" started-at="2017-08-22T22:11:36Z" finished-at="2017-08-22T22:11:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="Costco1()[pri:0, instance:com.practice.selenium.Costco@4cc0edeb]" name="Costco1" duration-ms="57249" started-at="2017-08-22T22:11:36Z" finished-at="2017-08-22T22:12:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Costco1 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.practice.selenium.Costco@4cc0edeb]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-08-22T22:12:33Z" finished-at="2017-08-22T22:12:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.practice.selenium.Costco@4cc0edeb]" name="beforeMethod" is-config="true" duration-ms="2" started-at="2017-08-22T22:12:33Z" finished-at="2017-08-22T22:12:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="applicationformfill()[pri:0, instance:com.practice.selenium.Costco@4cc0edeb]" name="applicationformfill" duration-ms="92461" started-at="2017-08-22T22:12:33Z" finished-at="2017-08-22T22:14:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applicationformfill -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.practice.selenium.Costco@4cc0edeb]" name="afterMethod" is-config="true" duration-ms="1" started-at="2017-08-22T22:14:06Z" finished-at="2017-08-22T22:14:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.practice.selenium.Costco@4cc0edeb]" name="afterClass" is-config="true" duration-ms="0" started-at="2017-08-22T22:14:06Z" finished-at="2017-08-22T22:14:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.practice.selenium.Costco -->
+      <class name="com.practice.selenium.Dragable">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.practice.selenium.Dragable@7823a2f9]" name="beforeSuite" is-config="true" duration-ms="11" started-at="2017-08-22T22:10:45Z" finished-at="2017-08-22T22:10:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.practice.selenium.Dragable@7823a2f9]" name="beforeTest" is-config="true" duration-ms="1" started-at="2017-08-22T22:10:45Z" finished-at="2017-08-22T22:10:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.practice.selenium.Dragable@7823a2f9]" name="beforeClass" is-config="true" duration-ms="0" started-at="2017-08-22T22:10:45Z" finished-at="2017-08-22T22:10:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.practice.selenium.Dragable@7823a2f9]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2017-08-22T22:10:45Z" finished-at="2017-08-22T22:10:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Draggable1()[pri:0, instance:com.practice.selenium.Dragable@7823a2f9]" name="Draggable1" duration-ms="50712" started-at="2017-08-22T22:10:45Z" finished-at="2017-08-22T22:11:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Draggable1 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.practice.selenium.Dragable@7823a2f9]" name="afterMethod" is-config="true" duration-ms="1" started-at="2017-08-22T22:11:36Z" finished-at="2017-08-22T22:11:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.practice.selenium.Dragable@7823a2f9]" name="afterClass" is-config="true" duration-ms="0" started-at="2017-08-22T22:11:36Z" finished-at="2017-08-22T22:11:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.practice.selenium.Dragable@7823a2f9]" name="afterTest" is-config="true" duration-ms="0" started-at="2017-08-22T22:14:06Z" finished-at="2017-08-22T22:14:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.practice.selenium.Dragable@7823a2f9]" name="afterSuite" is-config="true" duration-ms="0" started-at="2017-08-22T22:14:06Z" finished-at="2017-08-22T22:14:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.practice.selenium.Dragable -->
+    </test> <!-- Smoke -->
+  </suite> <!-- Suite -->
+</testng-results>

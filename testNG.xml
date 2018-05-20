@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+  
+  <test name="Smoke" >
+    <classes>
+       <class name="com.practice.selenium.Dragable" />
+       <class name="com.practice.selenium.Costco"/>
+         
+    </classes>
+  </test> 
+
+ 
+  <!--  <test name="functional">
+    <classes>
+      <class name="com.practice.selenium.Applicationfromfill"/>
+      <class name="com.practice.selenium.Costco"/>
+      <class name="com.practice.selenium.Dragable"/>
+     
+      
+    </classes>
+  </test>   -->
+  
+ 
+</suite>
